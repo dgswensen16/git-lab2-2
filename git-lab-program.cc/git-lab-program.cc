@@ -2,7 +2,7 @@
  *        File: git-lab-program.cc
  *      Author: <Devon Swensen >
  *        Date: <9/6/2023>
- * Description: Add Description
+ * Description: This is a simple program that shows and puts out the message HEllo git to the user. 
  */
 
 #include <iostream>
